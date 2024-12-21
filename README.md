@@ -21,9 +21,9 @@
 
 ## GitHub节点
 
-| [anaer](https://github.com/anaer/Sub)                   | [ZYFXS](https://github.com/ZYFXS/ZYFXS001)                   | [ermaozi](https://github.com/ermaozi/get_subscribe)         | [Pawdroid](https://github.com/Pawdroid/Free-servers)         | [chengaopan](https://github.com/chengaopan/AutoMergePublicNodes/blob/master/list_result.csv) |
-| ------------------------------------------------------- | ------------------------------------------------------------ | ----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [barry-far](https://github.com/barry-far/V2ray-Configs) | [changfengoss](https://github.com/changfengoss/pub/tree/main/data) | [mahdibland](https://github.com/mahdibland/V2RayAggregator) | [Misaka-blog](https://github.com/Misaka-blog/chromego_merge) |                                                              |
+| [anaer](https://github.com/anaer/Sub)                   | [ermaozi](https://github.com/ermaozi/get_subscribe)  | [changfengoss](https://github.com/changfengoss/pub/tree/main/data) | [chengaopan](https://github.com/chengaopan/AutoMergePublicNodes/blob/master/list_result.csv) |
+| ------------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [barry-far](https://github.com/barry-far/V2ray-Configs) | [Pawdroid](https://github.com/Pawdroid/Free-servers) | [mahdibland](https://github.com/mahdibland/V2RayAggregator)  | [Misaka-blog](https://github.com/Misaka-blog/chromego_merge) |
 
 ## 油管节点分享
 
