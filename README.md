@@ -42,5 +42,26 @@
 
 ## 其它工具
 
-| [节点转换](https://v2rayse.com/node-convert/) | [订阅转换](https://sub.ops.ci/) | [订阅转换](https://sub.ozc.me/) | [IP地址](http://ip125.com/) | [IP纯净度](https://whoer.net/zh) | [测速](https://speed.cloudflare.com/) |
-| --------------------------------------------- | ------------------------------- | ------------------------------- | --------------------------- | -------------------------------- | ------------------------------------- |
+| [长风节点转换](https://v2rayse.com/node-convert/) | [肥羊订阅转换](https://suburl.v1.mk/) | [CM订阅转换](https://sub.fxxk.dedyn.io/) | [国内外IP地址](http://ip125.com/) | [IP纯净度](https://whoer.net/zh) | [CF测速](https://speed.cloudflare.com/) |
+| ------------------------------------------------- | ------------------------------------- | ---------------------------------------- | --------------------------------- | -------------------------------- | --------------------------------------- |
+
+HTTP端口：80，8080，8880，2052，2082，2086，2095
+HTTPS端口：443，2053，2083，2087，2096，8443
+
+CF优选IP：https://vfarid.github.io/cf-ip-scanner/
+CF优选IP：https://cf.090227.xyz/
+CF优选IP：http://ip.flares.cloud/
+
+订阅模板：?sub=VLESS.fxxk.dedyn.io
+订阅模板：?sub=alvless.comorg.us.kg
+订阅模板：?sub=3k.fxxk.dedyn.io
+
+ProxyIP：ProxyIP.US.fxxk.dedyn.io
+
+ProxyIP：ProxyIP.JP.fxxk.dedyn.io
+
+ProxyIP：ProxyIP.HK.fxxk.dedyn.io
+
+ProxyIP：ProxyIP.DE.tp2024.fxxk.dedyn.io
+
+ProxyIP：ProxyIP.Aliyun.fxxk.dedyn.io
