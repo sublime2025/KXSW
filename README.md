@@ -51,6 +51,7 @@ HTTPS端口：443，2053，2083，2087，2096，8443
 CF优选IP：https://vfarid.github.io/cf-ip-scanner/
 CF优选IP：https://cf.090227.xyz/
 CF优选IP：http://ip.flares.cloud/
+CF优选IP：https://ip.164746.xyz/
 
 订阅模板：?sub=VLESS.fxxk.dedyn.io
 订阅模板：?sub=alvless.comorg.us.kg
