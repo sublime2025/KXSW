@@ -1,12 +1,12 @@
 ## 代理客户端
 
-| **Windows** | **[ClashVerge](https://github.com/clash-verge-rev/clash-verge-rev/releases/)** |      [V2RayN](https://github.com/2dust/v2rayN/releases)      |  [Nekoray](https://github.com/MatsuriDayo/nekoray/releases)  |  [FlClash](https://github.com/chen08209/FlClash/releases)  | [Pandora](https://github.com/snakem982/Pandora-Box/releases) |
-| :---------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------------------------------------------------------: | :----------------------------------------------------------: |
-| **Android** | **[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/)** |     [V2RayNG](https://github.com/2dust/v2rayNG/releases)     | [NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases) | [MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases) |     [Karing](https://github.com/KaringX/karing/releases)     |
-|  **Linux**  | [ClashVerge](https://github.com/clash-verge-rev/clash-verge-rev/releases/) | [Hiddify](https://github.com/hiddify/hiddify-next/releases)  | **[Mihomo](https://github.com/pompurin404/mihomo-party/releases/)** | [SingBox](https://github.com/SagerNet/sing-box/releases/)  |  [Nekoray](https://github.com/MatsuriDayo/nekoray/releases)  |
-|   **Mac**   | [ClashVerge](https://github.com/clash-verge-rev/clash-verge-rev/releases/) | [QuantumultX](https://apps.apple.com/us/app/quantumult-x/id1443988620) |             [Surge](https://nssurge.com/buy_now)             |     [V2rayU](https://github.com/yanue/V2rayU/releases)     | **[Mihomo](https://github.com/pompurin404/mihomo-party/releases/)** |
-|   **IOS**   | [ShadowRocket](https://apps.apple.com/us/app/shadowrocket/id932747118) | [QuantumultX](https://apps.apple.com/us/app/quantumult-x/id1443988620?l=zh) | [Stash](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349?l=zh-Hans-CN&platform=iphone) |  [Loon](https://apps.apple.com/us/app/loon/id1373567447)   | **[SingBox](https://apps.apple.com/us/app/sing-box/id6451272673?platform=mac)** |
-|  **Route**  | [OpenClash](https://github.com/vernesong/OpenClash/releases) |  [SingBox](https://github.com/SagerNet/sing-box/releases/)   |                                                              |                                                            |                                                              |
+| **Windows** | **[ClashVerge](https://github.com/clash-verge-rev/clash-verge-rev/releases/)** |      [V2RayN](https://github.com/2dust/v2rayN/releases)      |  [Nekobox](https://github.com/MatsuriDayo/nekoray/releases)  |  [FlClash](https://github.com/chen08209/FlClash/releases)  | [Pandora](https://github.com/snakem982/Pandora-Box/releases) |  [Furious](https://github.com/LorenEteval/Furious/releases)  |
+| :---------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| **Android** | **[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/)** |     [V2RayNG](https://github.com/2dust/v2rayNG/releases)     | [NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases) | [MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases) |     [Karing](https://github.com/KaringX/karing/releases)     |   [Exclave](https://github.com/dyhkwong/Exclave/releases)    |
+|  **Linux**  | [ClashVerge](https://github.com/clash-verge-rev/clash-verge-rev/releases/) | [Hiddify](https://github.com/hiddify/hiddify-next/releases)  | **[Mihomo](https://github.com/pompurin404/mihomo-party/releases/)** | [SingBox](https://github.com/SagerNet/sing-box/releases/)  |  [Nekobox](https://github.com/MatsuriDayo/nekoray/releases)  |                                                              |
+|   **Mac**   | [ClashVerge](https://github.com/clash-verge-rev/clash-verge-rev/releases/) | [QuantumultX](https://apps.apple.com/us/app/quantumult-x/id1443988620) |             [Surge](https://nssurge.com/buy_now)             |     [V2rayU](https://github.com/yanue/V2rayU/releases)     | **[Mihomo](https://github.com/pompurin404/mihomo-party/releases/)** |                                                              |
+|   **IOS**   | [ShadowRocket](https://apps.apple.com/us/app/shadowrocket/id932747118) | [QuantumultX](https://apps.apple.com/us/app/quantumult-x/id1443988620?l=zh) | [Stash](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349?l=zh-Hans-CN&platform=iphone) |  [Loon](https://apps.apple.com/us/app/loon/id1373567447)   | **[SingBox](https://apps.apple.com/us/app/sing-box/id6451272673?platform=mac)** | [Potatso](https://apps.apple.com/us/app/potatso/id1239860606) |
+|  **Route**  | [OpenClash](https://github.com/vernesong/OpenClash/releases) |  [SingBox](https://github.com/SagerNet/sing-box/releases/)   |                                                              |                                                            |                                                              |                                                              |
 
 > 使用说明
 > 1>获取机场订阅链接
@@ -52,17 +52,3 @@ CF优选IP：https://vfarid.github.io/cf-ip-scanner/
 CF优选IP：https://cf.090227.xyz/
 CF优选IP：http://ip.flares.cloud/
 CF优选IP：https://ip.164746.xyz/
-
-订阅模板：?sub=VLESS.fxxk.dedyn.io
-订阅模板：?sub=alvless.comorg.us.kg
-订阅模板：?sub=3k.fxxk.dedyn.io
-
-ProxyIP：ProxyIP.US.fxxk.dedyn.io
-
-ProxyIP：ProxyIP.JP.fxxk.dedyn.io
-
-ProxyIP：ProxyIP.HK.fxxk.dedyn.io
-
-ProxyIP：ProxyIP.DE.tp2024.fxxk.dedyn.io
-
-ProxyIP：ProxyIP.Aliyun.fxxk.dedyn.io
