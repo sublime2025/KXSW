@@ -52,3 +52,4 @@ CF优选IP：https://vfarid.github.io/cf-ip-scanner/
 CF优选IP：https://cf.090227.xyz/
 CF优选IP：http://ip.flares.cloud/
 CF优选IP：https://ip.164746.xyz/
+CF优选IP：https://www.wetest.vip/
