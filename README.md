@@ -27,7 +27,7 @@
 
 ## 油管节点分享
 
-| [顺丰资源](https://www.youtube.com/@SFZY666/videos) | [由零开始](https://www.youtube.com/@blue-Youtube/videos) | [分享日记](https://www.youtube.com/@fxrj/videos) | [资源分享师](https://www.youtube.com/@ZYFXS/videos) | [大飞分享](https://www.youtube.com/@DaFly_Node) |
+| [顺丰资源](https://www.youtube.com/@SFZY666/videos) | [由零开始](https://www.youtube.com/@blue-Youtube/videos) | [梦哥](https://www.youtube.com/@mgxray/videos) | [资源分享师](https://www.youtube.com/@ZYFXS/videos) | [快嘴科技](https://www.youtube.com/@kuaizui/videos) |
 | --------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------ | --------------------------------------------------- | ----------------------------------------------- |
 
 ## 电报免费节点
