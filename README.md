@@ -35,7 +35,7 @@
 | [Potatso](https://apps.apple.com/us/app/potatso/id1239860606) |                                                              |         |      |  ✔   |       |           |
 |   [Loon](https://apps.apple.com/us/app/loon/id1373567447)    |                                                              |         |      |  ✔   |       |           |
 |             [Surge](https://nssurge.com/buy_now)             |                                                              |         |      |  ✔   |       |           |
-|                                                              |                                                              |         |      |      |       |           |
+| [Passwall](https://github.com/xiaorouji/openwrt-passwall/releases) |                                                              |         |      |      |       |     ✔     |
 
 > 使用说明
 > 1>获取机场订阅链接
