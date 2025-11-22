@@ -72,7 +72,7 @@
 
 ## 其它工具
 
-| [长风节点转换](https://v2rayse.com/) | [肥羊订阅转换](https://suburl.v1.mk/) | [CM订阅转换](https://sub.fxxk.dedyn.io/) | [国内外IP地址](http://ip125.com/) | [IP纯净度](https://whoer.net/zh) | [CF测速](https://speed.cloudflare.com/) |
+| [长风节点转换](https://convert.looby.dpdns.org/) | [肥羊订阅转换](https://suburl.v1.mk/) | [CM订阅转换](https://sub.fxxk.dedyn.io/) | [国内外IP地址](http://ip125.com/) | [IP纯净度](https://whoer.net/zh) | [CF测速](https://speed.cloudflare.com/) |
 | ------------------------------------ | ------------------------------------- | ---------------------------------------- | --------------------------------- | -------------------------------- | --------------------------------------- |
 
 HTTP端口：80，8080，8880，2052，2082，2086，2095
