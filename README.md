@@ -63,10 +63,10 @@
 
 ### GitHub节点
 
-| [anaer](https://github.com/anaer/Sub)                        | [ermaozi](https://github.com/ermaozi/get_subscribe)  | [chengaopan](https://github.com/chengaopan/AutoMergePublicNodes/blob/master/list_result.csv) |
-| ------------------------------------------------------------ | ---------------------------------------------------- | ------------------------------------------------------------ |
-| [barry-far](https://github.com/barry-far/V2ray-Config)       | [Pawdroid](https://github.com/Pawdroid/Free-servers) | [mahdibland](https://github.com/mahdibland/V2RayAggregator)  |
-| [Misaka-blog](https://github.com/Misaka-blog/chromego_merge) | [Ruk1ng001](https://github.com/Ruk1ng001/freeSub)    | [peasoft](https://github.com/peasoft/NoMoreWalls)            |
+|            [anaer](https://github.com/anaer/Sub)             | [ermaozi](https://github.com/ermaozi/get_subscribe)  | [chengaopan](https://github.com/chengaopan/AutoMergePublicNodes/blob/master/list_result.csv) |
+| :----------------------------------------------------------: | :--------------------------------------------------: | :----------------------------------------------------------: |
+|    [barry-far](https://github.com/barry-far/V2ray-Config)    | [Pawdroid](https://github.com/Pawdroid/Free-servers) | [mahdibland](https://github.com/mahdibland/V2RayAggregator)  |
+| [Misaka-blog](https://github.com/Misaka-blog/chromego_merge) |  [Ruk1ng001](https://github.com/Ruk1ng001/freeSub)   |      [peasoft](https://github.com/peasoft/NoMoreWalls)       |
 
 ### 油管节点分享
 
