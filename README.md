@@ -9,8 +9,8 @@
 | **FlClash** | https://github.com/chen08209/FlClash/releases                |   apk/exe/dmg/rpm   |
 | ClashVerge  | https://github.com/clash-verge-rev/clash-verge-rev/releases  |     exe/dmg/rpm     |
 |   ClashMi   | https://github.com/KaringX/clashmi/releases                  |   apk/exe/dmg/rpm   |
-|   ClashMac   | https://github.com/666OS/ClashMac/releases                  |   dmg   |
-|   ClashParty   | https://github.com/mihomo-party-org/clash-party/releases  |   exe/dmg/rpm   |
+|  ClashMac   | https://github.com/666OS/ClashMac/releases                   |         dmg         |
+| ClashParty  | https://github.com/mihomo-party-org/clash-party/releases     |     exe/dmg/rpm     |
 |  FlyClash   | https://github.com/GtxFury/FlyClash/releases                 |       exe/dmg       |
 |   Mihomo    | https://github.com/pompurin404/mihomo-party/releases         |   apk/exe/dmg/rpm   |
 |  OpenClash  | https://github.com/vernesong/OpenClash/releases              |         ipk         |
@@ -87,8 +87,9 @@
 
 ### 其它工具
 
-| [长风节点转换](https://convert.looby.dpdns.org/) | [肥羊订阅转换](https://suburl.v1.mk/) | [CM订阅转换](https://sub.fxxk.dedyn.io/) | [国内外IP地址](http://ip125.com/) | [IP纯净度](https://whoer.net/zh) | [CF测速](https://speed.cloudflare.com/) |
-| ------------------------------------------------ | ------------------------------------- | ---------------------------------------- | --------------------------------- | -------------------------------- | --------------------------------------- |
+| [长风节点转换](https://convert.looby.dpdns.org/) | [肥羊订阅转换](https://suburl.v1.mk/) | [CM订阅转换](https://sub.fxxk.dedyn.io/) | [CF测速](https://speed.cloudflare.com/) |
+| ------------------------------------------------ | ------------------------------------- | ---------------------------------------- | --------------------------------------- |
+| [国内外IP地址](http://ip125.com/)                | [IP纯净度](https://whoer.net/zh)      | https://ping0.cc/                        | https://ippure.com/                     |
 
 HTTP端口：80，8080，8880，2052，2082，2086，2095
 HTTPS端口：443，2053，2083，2087，2096，8443
