@@ -103,3 +103,11 @@ CF优选IP：http://ip.flares.cloud/
 CF优选IP：https://ip.164746.xyz/
 
 CF优选IP：https://www.wetest.vip/
+
+CF优选IP：https://stock.hostmonit.com/CloudFlareYes
+
+CF优选IP：https://www.byoip.top
+
+CF优选IP：https://api.uouin.com/cloudflare.html
+
+CF优选IP：https://vps789.com/cfip
