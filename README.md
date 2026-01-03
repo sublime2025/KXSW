@@ -22,7 +22,6 @@
 | **SingBox** | https://github.com/SagerNet/sing-box/releases/               | apk/exe/dmg/rpm/ipk |
 |   OneBox    | https://github.com/OneOhCloud/OneBox                         |     exe/dmg/rpm     |
 |   Hiddify   | https://github.com/hiddify/hiddify-next/releases             |   apk/exe/dmg/rpm   |
-|    lvory    | https://github.com/xiaoxhao/lvory/releases/tag/nightly-20251110 |     exe/dmg/rpm     |
 |   Exclave   | https://github.com/dyhkwong/Exclave/releases                 |         apk         |
 |   Karing    | https://github.com/KaringX/karing/releases                   |   apk/exe/dmg/rpm   |
 |   Pandora   | https://github.com/snakem982/Pandora-Box/releases            |         exe         |
