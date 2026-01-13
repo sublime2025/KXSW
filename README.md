@@ -2,31 +2,33 @@
 
 ### 开源项目
 
-|    名称     | 地址                                                         |        支持         |
-| :---------: | ------------------------------------------------------------ | :-----------------: |
-|  ClashMeta  | https://github.com/MetaCubeX/ClashMetaForAndroid/releases    |         apk         |
-|    Clash    | https://github.com/libnyanpasu/clash-nyanpasu/releases       |     exe/dmg/rpm     |
-| **FlClash** | https://github.com/chen08209/FlClash/releases                |   apk/exe/dmg/rpm   |
-| ClashVerge  | https://github.com/clash-verge-rev/clash-verge-rev/releases  |     exe/dmg/rpm     |
-|   ClashMi   | https://github.com/KaringX/clashmi/releases                  |   apk/exe/dmg/rpm   |
-|  ClashMac   | https://github.com/666OS/ClashMac/releases                   |         dmg         |
-| ClashParty  | https://github.com/mihomo-party-org/clash-party/releases     |     exe/dmg/rpm     |
-|  FlyClash   | https://github.com/GtxFury/FlyClash/releases                 |       exe/dmg       |
-|   Mihomo    | https://github.com/pompurin404/mihomo-party/releases         |   apk/exe/dmg/rpm   |
-|  OpenClash  | https://github.com/vernesong/OpenClash/releases              |         ipk         |
-| **V2RayN**  | https://github.com/2dust/v2rayN/releases                     |     exe/dmg/rpm     |
-|   V2RayNG   | https://github.com/2dust/v2rayNG/releases                    |         apk         |
-|   V2rayU    | https://github.com/yanue/V2rayU/releases                     |         dmg         |
-|   MahsaNG   | https://github.com/GFW-knocker/MahsaNG/releases              |         apk         |
-|   Nekobox   | https://github.com/MatsuriDayo/NekoBoxForAndroid/releases    |         apk         |
-| **SingBox** | https://github.com/SagerNet/sing-box/releases/               | apk/exe/dmg/rpm/ipk |
-|   OneBox    | https://github.com/OneOhCloud/OneBox                         |     exe/dmg/rpm     |
-|   Hiddify   | https://github.com/hiddify/hiddify-next/releases             |   apk/exe/dmg/rpm   |
-|   Exclave   | https://github.com/dyhkwong/Exclave/releases                 |         apk         |
-|   Karing    | https://github.com/KaringX/karing/releases                   |   apk/exe/dmg/rpm   |
-|   Pandora   | https://github.com/snakem982/Pandora-Box/releases            |         exe         |
-|   Furious   | https://github.com/LorenEteval/Furious/releases              |       exe/dmg       |
-|  Passwall   | https://github.com/xiaorouji/openwrt-passwall/releases       |         ipk         |
+|    名称     | 地址                                                        |        支持         |
+| :---------: | ----------------------------------------------------------- | :-----------------: |
+|  ClashMeta  | https://github.com/MetaCubeX/ClashMetaForAndroid/releases   |         apk         |
+|    Clash    | https://github.com/libnyanpasu/clash-nyanpasu/releases      |     exe/dmg/rpm     |
+| **FlClash** | https://github.com/chen08209/FlClash/releases               |   apk/exe/dmg/rpm   |
+| ClashVerge  | https://github.com/clash-verge-rev/clash-verge-rev/releases |     exe/dmg/rpm     |
+|   ClashMi   | https://github.com/KaringX/clashmi/releases                 |   apk/exe/dmg/rpm   |
+|  ClashMac   | https://github.com/666OS/ClashMac/releases                  |         dmg         |
+| ClashParty  | https://github.com/mihomo-party-org/clash-party/releases    |     exe/dmg/rpm     |
+|  FlyClash   | https://github.com/GtxFury/FlyClash/releases                |       exe/dmg       |
+|  ClashBox   | https://github.com/xiaobaigroup/ClashBox                    |         hap         |
+|   Mihomo    | https://github.com/pompurin404/mihomo-party/releases        |   apk/exe/dmg/rpm   |
+|  OpenClash  | https://github.com/vernesong/OpenClash/releases             |         ipk         |
+| **V2RayN**  | https://github.com/2dust/v2rayN/releases                    |     exe/dmg/rpm     |
+|   V2RayNG   | https://github.com/2dust/v2rayNG/releases                   |         apk         |
+|   V2rayU    | https://github.com/yanue/V2rayU/releases                    |         dmg         |
+|   MahsaNG   | https://github.com/GFW-knocker/MahsaNG/releases             |         apk         |
+|   Nekobox   | https://github.com/MatsuriDayo/NekoBoxForAndroid/releases   |         apk         |
+|   Throne    | https://github.com/throneproj/Throne                        |     exe/dmg/rpm     |
+| **SingBox** | https://github.com/SagerNet/sing-box/releases/              | apk/exe/dmg/rpm/ipk |
+|   OneBox    | https://github.com/OneOhCloud/OneBox                        |     exe/dmg/rpm     |
+|   Hiddify   | https://github.com/hiddify/hiddify-next/releases            |   apk/exe/dmg/rpm   |
+|   Exclave   | https://github.com/dyhkwong/Exclave/releases                |         apk         |
+|   Karing    | https://github.com/KaringX/karing/releases                  |   apk/exe/dmg/rpm   |
+|   Pandora   | https://github.com/snakem982/Pandora-Box/releases           |         exe         |
+|   Furious   | https://github.com/LorenEteval/Furious/releases             |       exe/dmg       |
+|  Passwall   | https://github.com/xiaorouji/openwrt-passwall/releases      |         ipk         |
 
 > Android【apk】Windows【exe/zip】Linux【rpm/deb】Mac【dmg】IOS【ipa】Route【ipk】
 
