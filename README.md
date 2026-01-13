@@ -13,7 +13,7 @@
 | ClashParty  | https://github.com/mihomo-party-org/clash-party/releases    |     exe/dmg/rpm     |
 |  FlyClash   | https://github.com/GtxFury/FlyClash/releases                |       exe/dmg       |
 |  ClashBox   | https://github.com/xiaobaigroup/ClashBox/releases           |         hap         |
-|  koalaClash | https://github.com/coolcoala/koala-clash/releases           |         hap         |
+|  KoalaClash | https://github.com/coolcoala/koala-clash/releases           |     exe/dmg/rpm     |
 |   Mihomo    | https://github.com/pompurin404/mihomo-party/releases        |   apk/exe/dmg/rpm   |
 |  OpenClash  | https://github.com/vernesong/OpenClash/releases             |         ipk         |
 | **V2RayN**  | https://github.com/2dust/v2rayN/releases                    |     exe/dmg/rpm     |
