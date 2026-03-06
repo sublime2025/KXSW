@@ -10,6 +10,7 @@
 | ClashVerge  | https://github.com/clash-verge-rev/clash-verge-rev/releases |     exe/dmg/rpm     |
 |   ClashMi   | https://github.com/KaringX/clashmi/releases                 |   apk/exe/dmg/rpm   |
 |  ClashMac   | https://github.com/666OS/ClashMac/releases                  |         dmg         |
+|  ClashBar   | https://github.com/Sitoi/ClashBar/releases                  |         dmg         |
 | ClashParty  | https://github.com/mihomo-party-org/clash-party/releases    |     exe/dmg/rpm     |
 |  FlyClash   | https://github.com/GtxFury/FlyClash/releases                |       exe/dmg       |
 |  ClashBox   | https://github.com/xiaobaigroup/ClashBox/releases           |         hap         |
@@ -30,6 +31,7 @@
 |   Pandora   | https://github.com/snakem982/Pandora-Box/releases           |         exe         |
 |   Furious   | https://github.com/LorenEteval/Furious/releases             |       exe/dmg       |
 |  Passwall   | https://github.com/xiaorouji/openwrt-passwall/releases      |         ipk         |
+|  OpenWRT   | https://github.com/openwrt/openwrt      |         null         |
 
 > Android【apk】Windows【exe/zip】Linux【rpm/deb】Mac【dmg】IOS【ipa】Route【ipk】
 
@@ -52,12 +54,6 @@
 | ShadowRocket | https://apps.apple.com/us/app/shadowrocket/id932747118       | 2.99$ |
 |              |                                                              |       |
 
-> 内核：Xray、Mihomo、Singbox、WireGuard
->
-> 协议迭代：ss、ssr、vmess、trojan、vless、tuic、hysteria2、juicity、anytls
->
-> 优先级：VLESS+Reality>Hysteria 2>Juicity>Trojan>TUIC>SS2022>AnyTLS>VMess>SSR
->
 > 使用说明：1>获取机场订阅链接2>粘贴到代理客户端3>开启代理模式4>选择代理节点
 
 ### Android软件
@@ -91,7 +87,7 @@
 
 | [长风节点转换](https://convert.looby.dpdns.org/) | [肥羊订阅转换](https://suburl.v1.mk/) | [CM订阅转换](https://sub.fxxk.dedyn.io/) | [CF测速](https://speed.cloudflare.com/) |
 | ------------------------------------------------ | ------------------------------------- | ---------------------------------------- | --------------------------------------- |
-| [国内外IP地址](http://ip125.com/)                | [IP纯净度](https://whoer.net/zh)      | https://ping0.cc/                        | https://ippure.com/                     |
+| [国内外IP地址](http://ip125.com/)                | [IP纯净度](https://whoer.net/zh)      | [IP纯净度]https://ping0.cc/                        | [IP纯净度]https://ippure.com/                     |
 
 HTTP端口：80，8080，8880，2052，2082，2086，2095
 HTTPS端口：443，2053，2083，2087，2096，8443
