@@ -106,6 +106,8 @@ CF优选IP：https://stock.hostmonit.com/CloudFlareYes
 
 CF优选IP：https://www.byoip.top
 
+CF优选IP：https://github.com/xgonce/Cloudflare_IP/blob/main/result.csv
+
 CF优选IP：https://api.uouin.com/cloudflare.html
 
 CF优选IP：https://vps789.com/cfip
