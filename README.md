@@ -87,7 +87,7 @@
 
 | [长风节点转换](https://convert.looby.dpdns.org/) | [肥羊订阅转换](https://suburl.v1.mk/) | [CM订阅转换](https://sub.fxxk.dedyn.io/) | [CF测速](https://speed.cloudflare.com/) |
 | :----------------------------------------------: | :-----------------------------------: | :--------------------------------------: | :-------------------------------------: |
-|           [ip检测1](http://ip125.com/)           |      [IP检测4](https://ip8.com/)      |      [IP检测3](https://ip.skk.moe/)      |    [ip检测2](https://ip.net.coffee/)    |
+|            [IP125](http://ip125.com/)            |        [IP8](https://ip8.com/)        |      [IP检测](https://ip.skk.moe/)       |    [IP检测](https://ip.net.coffee/)     |
 
 HTTP端口：80，8080，8880，2052，2082，2086，2095
 HTTPS端口：443，2053，2083，2087，2096，8443
