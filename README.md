@@ -14,7 +14,7 @@
 | ClashParty  | https://github.com/mihomo-party-org/clash-party/releases    |     exe/dmg/rpm     |
 |  FlyClash   | https://github.com/GtxFury/FlyClash/releases                |       exe/dmg       |
 |  ClashBox   | https://github.com/xiaobaigroup/ClashBox/releases           |         hap         |
-|  KoalaClash | https://github.com/coolcoala/koala-clash/releases           |     exe/dmg/rpm     |
+| KoalaClash  | https://github.com/coolcoala/koala-clash/releases           |     exe/dmg/rpm     |
 |   Mihomo    | https://github.com/pompurin404/mihomo-party/releases        |   apk/exe/dmg/rpm   |
 |  OpenClash  | https://github.com/vernesong/OpenClash/releases             |         ipk         |
 | **V2RayN**  | https://github.com/2dust/v2rayN/releases                    |     exe/dmg/rpm     |
@@ -31,25 +31,25 @@
 |   Pandora   | https://github.com/snakem982/Pandora-Box/releases           |         exe         |
 |   Furious   | https://github.com/LorenEteval/Furious/releases             |       exe/dmg       |
 |  Passwall   | https://github.com/xiaorouji/openwrt-passwall/releases      |         ipk         |
-|  OpenWRT   | https://github.com/openwrt/openwrt      |         null         |
+|   OpenWRT   | https://github.com/openwrt/openwrt                          |        null         |
 
 > Android【apk】Windows【exe/zip】Linux【rpm/deb】Mac【dmg】IOS【ipa】Route【ipk】
 
 ### **IOS**软件
 
-| 名称         | 地址                                                         |       |
-| ------------ | ------------------------------------------------------------ | ----- |
-| Potatso      | https://apps.apple.com/us/app/potatso/id1239860606           | Free  |
-| Surge        | https://apps.apple.com/us/app/surge-5/id1442620678           | Free  |
-| Hiddify      | https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532 | Free  |
-| **Karing**   | https://apps.apple.com/us/app/karing/id6472431552            | Free  |
-| V2Box        | https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690 | Free  |
-| Egern        | https://apps.apple.com/us/app/egern/id1616105820             | Free  |
-| Streisand    | https://apps.apple.com/us/app/streisand/id6450534064         | Free  |
-| ‎v2RayTun     | https://apps.apple.com/us/app/v2raytun/id6476628951          | Free  |
-| Lancex       | https://apps.apple.com/us/app/lancex/id1536754048            | 2.99$ |
-| Stash        | https://apps.apple.com/us/app/stash/id1596063349             | 5.99$ |
-| Loon         | https://apps.apple.com/us/app/loon/id1373567447              | 7.99$ |
+|     名称     | 地址                                                         |       |
+| :----------: | ------------------------------------------------------------ | :---: |
+|   Potatso    | https://apps.apple.com/us/app/potatso/id1239860606           | Free  |
+|    Surge     | https://apps.apple.com/us/app/surge-5/id1442620678           | Free  |
+|   Hiddify    | https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532 | Free  |
+|  **Karing**  | https://apps.apple.com/us/app/karing/id6472431552            | Free  |
+|    V2Box     | https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690 | Free  |
+|    Egern     | https://apps.apple.com/us/app/egern/id1616105820             | Free  |
+|  Streisand   | https://apps.apple.com/us/app/streisand/id6450534064         | Free  |
+|   ‎v2RayTun   | https://apps.apple.com/us/app/v2raytun/id6476628951          | Free  |
+|    Lancex    | https://apps.apple.com/us/app/lancex/id1536754048            | 2.99$ |
+|    Stash     | https://apps.apple.com/us/app/stash/id1596063349             | 5.99$ |
+|     Loon     | https://apps.apple.com/us/app/loon/id1373567447              | 7.99$ |
 | QuantumultX  | https://apps.apple.com/us/app/quantumult-x/id1443988620      | 9.99$ |
 | ShadowRocket | https://apps.apple.com/us/app/shadowrocket/id932747118       | 2.99$ |
 |              |                                                              |       |
@@ -86,8 +86,8 @@
 ### 其它工具
 
 | [长风节点转换](https://convert.looby.dpdns.org/) | [肥羊订阅转换](https://suburl.v1.mk/) | [CM订阅转换](https://sub.fxxk.dedyn.io/) | [CF测速](https://speed.cloudflare.com/) |
-| ------------------------------------------------ | ------------------------------------- | ---------------------------------------- | --------------------------------------- |
-| [ip检测1](http://ip125.com/)                | [ip检测2](https://whoer.net/zh)      | [IP检测3](https://ip.skk.moe/)                        | [IP检测4](https://ippure.com/)                     |
+| :----------------------------------------------: | :-----------------------------------: | :--------------------------------------: | :-------------------------------------: |
+|           [ip检测1](http://ip125.com/)           |      [IP检测4](https://ip8.com/)      |      [IP检测3](https://ip.skk.moe/)      |    [ip检测2](https://ip.net.coffee/)    |
 
 HTTP端口：80，8080，8880，2052，2082，2086，2095
 HTTPS端口：443，2053，2083，2087，2096，8443
