@@ -56,11 +56,6 @@
 
 > 使用说明：1>获取机场订阅链接2>粘贴到代理客户端3>开启代理模式4>选择代理节点
 
-### Android软件
-
-| [起飞VPN](https://play.google.com/store/apps/details?id=com.ambrose.overwall&hl=zh) | [V2VPN](https://play.google.com/store/apps/details?id=com.wrongchao.v2vpn&hl=zh) | [MahsaNG](https://play.google.com/store/apps/details?id=com.MahsaNet.MahsaNG&hl=zh) |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-
 ### GitHub节点
 
 |            [anaer](https://github.com/anaer/Sub)             | [ermaozi](https://github.com/ermaozi/get_subscribe)  | [chengaopan](https://github.com/chengaopan/AutoMergePublicNodes/blob/master/list_result.csv) |
@@ -68,20 +63,13 @@
 |    [barry-far](https://github.com/barry-far/V2ray-Config)    | [Pawdroid](https://github.com/Pawdroid/Free-servers) | [mahdibland](https://github.com/mahdibland/V2RayAggregator)  |
 | [Misaka-blog](https://github.com/Misaka-blog/chromego_merge) |  [Ruk1ng001](https://github.com/Ruk1ng001/freeSub)   |      [peasoft](https://github.com/peasoft/NoMoreWalls)       |
 
-### 油管节点分享
+### 公益渠道
 
-| [顺丰资源](https://www.youtube.com/@SFZY666/videos) | [由零开始](https://www.youtube.com/@blue-Youtube/videos) | [资源分享师](https://www.youtube.com/@ZYFXS/videos) |
-| --------------------------------------------------- | -------------------------------------------------------- | --------------------------------------------------- |
-
-### 电报免费节点
-
-| [CC宝盒](https://t.me/ccbaohe) | [公益机场](https://t.me/go4sharing) | [一个朋友](t.me/ygpy_net) |
-| ------------------------------ | ----------------------------------- | ------------------------- |
-
-### RSS节点订阅
-
-| [免费节点](https://telegeam.github.io/clashv2rayshare/feed.xml) | [长风分享](https://www.cfmem.com/feeds/posts/default) | [公益节点](https://clashgithub.com/feed) |
-| ------------------------------------------------------------ | ----------------------------------------------------- | ---------------------------------------- |
+|                           安卓软件                           |                         油管节点                         |              电报节点               |                           RSS节点                            |
+| :----------------------------------------------------------: | :------------------------------------------------------: | :---------------------------------: | :----------------------------------------------------------: |
+| [起飞VPN](https://play.google.com/store/apps/details?id=com.ambrose.overwall&hl=zh) |   [顺丰资源](https://www.youtube.com/@SFZY666/videos)    |   [CC宝盒](https://t.me/ccbaohe)    | [免费节点](https://telegeam.github.io/clashv2rayshare/feed.xml) |
+| [V2VPN](https://play.google.com/store/apps/details?id=com.wrongchao.v2vpn&hl=zh) | [由零开始](https://www.youtube.com/@blue-Youtube/videos) | [公益机场](https://t.me/go4sharing) |    [长风分享](https://www.cfmem.com/feeds/posts/default)     |
+| [MahsaNG](https://play.google.com/store/apps/details?id=com.MahsaNet.MahsaNG&hl=zh) |   [资源分享师](https://www.youtube.com/@ZYFXS/videos)    |      [一个朋友](t.me/ygpy_net)      |           [公益节点](https://clashgithub.com/feed)           |
 
 ### 其它工具
 
@@ -89,8 +77,7 @@
 | :----------------------------------------------: | :-----------------------------------: | :--------------------------------------: | :-------------------------------------: |
 |            [IP125](http://ip125.com/)            |        [IP8](https://ip8.com/)        |      [IP检测](https://ip.skk.moe/)       |    [IP检测](https://ip.net.coffee/)     |
 
-HTTP端口：80，8080，8880，2052，2082，2086，2095
-HTTPS端口：443，2053，2083，2087，2096，8443
+HTTP端口：`80，8080，8880，2052，2082，2086，2095` | HTTPS端口：`443，2053，2083，2087，2096，8443`
 
 CF优选域名：https://cf.090227.xyz/
 
@@ -101,8 +88,6 @@ CF优选IP：http://ip.flares.cloud/
 CF优选IP：https://ip.164746.xyz/
 
 CF优选IP：https://www.wetest.vip/
-
-CF优选IP：https://stock.hostmonit.com/CloudFlareYes
 
 CF优选IP：https://www.byoip.top
 
