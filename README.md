@@ -79,7 +79,9 @@
 
 HTTP端口：`80，8080，8880，2052，2082，2086，2095` | HTTPS端口：`443，2053，2083，2087，2096，8443`
 
-CF优选域名：https://cf.090227.xyz/
+CF优选：https://cf.090227.xyz/
+
+CF优选：https://saas.seeck.cn/
 
 CF优选IP：https://vfarid.github.io/cf-ip-scanner/
 
@@ -96,3 +98,5 @@ CF优选IP：https://github.com/xgonce/Cloudflare_IP/blob/main/result.csv
 CF优选IP：https://api.uouin.com/cloudflare.html
 
 CF优选IP：https://vps789.com/cfip
+
+
