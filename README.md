@@ -1,44 +1,50 @@
 ## 代理客户端
 
-### 开源项目
+### Clash(Mihomo)
 
-|    名称     | 地址                                                        |        支持         |
-| :---------: | ----------------------------------------------------------- | :-----------------: |
-|  ClashMeta  | https://github.com/MetaCubeX/ClashMetaForAndroid/releases   |         apk         |
-|    Clash    | https://github.com/libnyanpasu/clash-nyanpasu/releases      |     exe/dmg/rpm     |
-| **FlClash** | https://github.com/chen08209/FlClash/releases               |   apk/exe/dmg/rpm   |
-| ClashVerge  | https://github.com/clash-verge-rev/clash-verge-rev/releases |     exe/dmg/rpm     |
-|   ClashMi   | https://github.com/KaringX/clashmi/releases                 |   apk/exe/dmg/rpm   |
-|  ClashMac   | https://github.com/666OS/ClashMac/releases                  |         dmg         |
-|  ClashBar   | https://github.com/Sitoi/ClashBar/releases                  |         dmg         |
-| ClashParty  | https://github.com/mihomo-party-org/clash-party/releases    |     exe/dmg/rpm     |
-|  FlyClash   | https://github.com/GtxFury/FlyClash/releases                |       exe/dmg       |
-|  ClashBox   | https://github.com/xiaobaigroup/ClashBox/releases           |         hap         |
-| KoalaClash  | https://github.com/coolcoala/koala-clash/releases           |     exe/dmg/rpm     |
-|   Mihomo    | https://github.com/pompurin404/mihomo-party/releases        |   apk/exe/dmg/rpm   |
-|  OpenClash  | https://github.com/vernesong/OpenClash/releases             |         ipk         |
-| **V2RayN**  | https://github.com/2dust/v2rayN/releases                    |     exe/dmg/rpm     |
-|   V2RayNG   | https://github.com/2dust/v2rayNG/releases                   |         apk         |
-|   V2rayU    | https://github.com/yanue/V2rayU/releases                    |         dmg         |
-|   MahsaNG   | https://github.com/GFW-knocker/MahsaNG/releases             |         apk         |
-|   Nekobox   | https://github.com/MatsuriDayo/NekoBoxForAndroid/releases   |         apk         |
-|   Throne    | https://github.com/throneproj/Throne                        |     exe/dmg/rpm     |
-| **SingBox** | https://github.com/SagerNet/sing-box/releases/              | apk/exe/dmg/rpm/ipk |
-|   OneBox    | https://github.com/OneOhCloud/OneBox                        |     exe/dmg/rpm     |
-|   Hiddify   | https://github.com/hiddify/hiddify-next/releases            |   apk/exe/dmg/rpm   |
-|   Exclave   | https://github.com/dyhkwong/Exclave/releases                |         apk         |
-|   Karing    | https://github.com/KaringX/karing/releases                  |   apk/exe/dmg/rpm   |
-|   Pandora   | https://github.com/snakem982/Pandora-Box/releases           |         exe         |
-|   Furious   | https://github.com/LorenEteval/Furious/releases             |       exe/dmg       |
-|  Passwall   | https://github.com/xiaorouji/openwrt-passwall/releases      |         ipk         |
-|   OpenWRT   | https://github.com/openwrt/openwrt                          |        null         |
+| 名称           | 地址                                                         | 支持                |
+| -------------- | ------------------------------------------------------------ | ------------------- |
+| **FlClash**    | **https://github.com/chen08209/FlClash/releases**            | **apk/exe/dmg/rpm** |
+| ClashVerge     | https://github.com/clash-verge-rev/clash-verge-rev/releases  | exe/dmg/rpm         |
+| ClashMeta      | https://github.com/MetaCubeX/ClashMetaForAndroid/releases    | apk                 |
+| ClashBox       | https://github.com/xiaobaigroup/ClashBox/releases            | hap                 |
+| OpenClash      | https://github.com/vernesong/OpenClash/releases              | ipk                 |
+| **ClashMi**    | **https://github.com/KaringX/clashmi/releases**              | **apk/exe/dmg/rpm** |
+| ClashN         | https://github.com/libnyanpasu/clash-nyanpasu/releases       | exe/dmg/rpm         |
+| ClashMac       | https://github.com/666OS/ClashMac/releases                   | dmg                 |
+| ClashBar       | https://github.com/Sitoi/ClashBar/releases                   | dmg                 |
+| FlyClash       | https://github.com/GtxFury/FlyClash/releases                 | exe/dmg             |
+| KoalaClash     | https://github.com/coolcoala/koala-clash/releases            | exe/dmg/rpm         |
+| **ClashParty** | **https://github.com/mihomo-party-org/clash-party/releases** | **exe/dmg/rpm**     |
+|                |                                                              |                     |
+|                |                                                              |                     |
 
 > Android【apk】Windows【exe/zip】Linux【rpm/deb】Mac【dmg】IOS【ipa】Route【ipk】
 
-### **IOS**软件
+### V2ray(Xray/SingBox)
+
+| **V2RayN**  | https://github.com/2dust/v2rayN/releases                  | exe/dmg/rpm         |
+| ----------- | --------------------------------------------------------- | ------------------- |
+| V2RayNG     | https://github.com/2dust/v2rayNG/releases                 | apk                 |
+| V2rayU      | https://github.com/yanue/V2rayU/releases                  | dmg                 |
+| MahsaNG     | https://github.com/GFW-knocker/MahsaNG/releases           | apk                 |
+| Nekobox     | https://github.com/MatsuriDayo/NekoBoxForAndroid/releases | apk                 |
+| Nekobox     | https://github.com/qr243vbi/nekobox/releases              | exe/rpm             |
+| Throne      | https://github.com/throneproj/Throne                      | exe/dmg/rpm         |
+| **SingBox** | https://github.com/SagerNet/sing-box/releases/            | apk/exe/dmg/rpm/ipk |
+| OneBox      | https://github.com/OneOhCloud/OneBox                      | exe/dmg/rpm         |
+| Hiddify     | https://github.com/hiddify/hiddify-next/releases          | apk/exe/dmg/rpm     |
+| Exclave     | https://github.com/dyhkwong/Exclave/releases              | apk                 |
+| Karing      | https://github.com/KaringX/karing/releases                | apk/exe/dmg/rpm     |
+| Pandora     | https://github.com/snakem982/Pandora-Box/releases         | exe                 |
+| Furious     | https://github.com/LorenEteval/Furious/releases           | exe/dmg/rpm         |
+| OpenWRT     | https://github.com/openwrt/openwrt                        | null                |
+
+### **IOS**
 
 |     名称     | 地址                                                         |       |
 | :----------: | ------------------------------------------------------------ | :---: |
+|   ClashMi    | https://apps.apple.com/us/app/clash-mi/id6744321968          | Free  |
 |   Potatso    | https://apps.apple.com/us/app/potatso/id1239860606           | Free  |
 |    Surge     | https://apps.apple.com/us/app/surge-5/id1442620678           | Free  |
 |   Hiddify    | https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532 | Free  |
@@ -52,7 +58,6 @@
 |     Loon     | https://apps.apple.com/us/app/loon/id1373567447              | 7.99$ |
 | QuantumultX  | https://apps.apple.com/us/app/quantumult-x/id1443988620      | 9.99$ |
 | ShadowRocket | https://apps.apple.com/us/app/shadowrocket/id932747118       | 2.99$ |
-|              |                                                              |       |
 
 > 使用说明：1>获取机场订阅链接2>粘贴到代理客户端3>开启代理模式4>选择代理节点
 
@@ -98,5 +103,3 @@ CF优选IP：https://github.com/xgonce/Cloudflare_IP/blob/main/result.csv
 CF优选IP：https://api.uouin.com/cloudflare.html
 
 CF优选IP：https://vps789.com/cfip
-
-
