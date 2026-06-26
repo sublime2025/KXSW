@@ -103,16 +103,17 @@ HTTP端口：`80，8080，8880，2052，2082，2086，2095` | HTTPS端口：`443
 
 <details>
 <summary>CF优选</summary>
-https://cf.090227.xyz
-https://saas.seeck.cn
-https://vfarid.github.io/cf-ip-scanner
-https://ip.flares.cloud
-https://ip.164746.xyz
-https://www.wetest.vip
-https://www.byoip.top
-https://vps789.com/cfip
-https://v2rayssr.com/cfip/
-https://github.com/xgonce/Cloudflare_IP/blob/main/result.csv
-https://api.uouin.com/cloudflare.html
+- https://cf.090227.xyz
+- https://saas.seeck.cn
+- https://vfarid.github.io/cf-ip-scanner
+- https://ip.flares.cloud
+- https://ip.164746.xyz
+- https://www.wetest.vip
+- https://www.byoip.top
+- https://vps789.com/cfip
+- https://v2rayssr.com/cfip/
+- https://github.com/xgonce/Cloudflare_IP/blob/main/result.csv
+- https://api.uouin.com/cloudflare.html
+</details>
 
 ​    
