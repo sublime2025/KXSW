@@ -102,7 +102,9 @@ HTTP端口：`80，8080，8880，2052，2082，2086，2095` | HTTPS端口：`443
 | https://convert.looby.dpdns.org | https://ip.net.coffee | https://fiber.google.com/speedtest/ |
 
 <details>
-<summary>CF优选</summary>
+<summary>点击展开网站列表</summary>
+
+
 - https://cf.090227.xyz
 - https://saas.seeck.cn
 - https://vfarid.github.io/cf-ip-scanner
@@ -114,6 +116,5 @@ HTTP端口：`80，8080，8880，2052，2082，2086，2095` | HTTPS端口：`443
 - https://v2rayssr.com/cfip/
 - https://github.com/xgonce/Cloudflare_IP/blob/main/result.csv
 - https://api.uouin.com/cloudflare.html
-</details>
 
-​    
+</details>
