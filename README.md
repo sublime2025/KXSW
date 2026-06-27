@@ -91,9 +91,11 @@ HTTP端口：`80，8080，8880，2052，2082，2086，2095` | HTTPS端口：`443
 | https://sub.cmliussss.net/      | https://ip8.com       | https://fast.com/                   |
 | https://bianyuan.xyz/           | https://ip.skk.moe    | https://www.speedtest.net/          |
 | https://convert.looby.dpdns.org | https://ip.net.coffee | https://fiber.google.com/speedtest/ |
+| https://subboost.org/           | https://ippure.com    | http://speed5.ntu.edu.tw/           |
 
 <details>
 <summary>CF优选</summary>
+
 
 
 - https://cf.090227.xyz
