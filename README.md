@@ -63,6 +63,7 @@ Android【apk】Windows【exe/zip】Linux【rpm/deb】Mac【dmg/pkg】IOS【ipa�
 |    Egern     | https://apps.apple.com/us/app/egern/id1616105820             | Free  |
 |  Streisand   | https://apps.apple.com/us/app/streisand/id6450534064         | Free  |
 |   ‎v2RayTun   | https://apps.apple.com/us/app/v2raytun/id6476628951          | Free  |
+|   AnyWhere   | https://apps.apple.com/us/app/anywhere-proxy/id6758235178    | Free  |
 |    Lancex    | https://apps.apple.com/us/app/lancex/id1536754048            | 2.99$ |
 |    Stash     | https://apps.apple.com/us/app/stash/id1596063349             | 5.99$ |
 |     Loon     | https://apps.apple.com/us/app/loon/id1373567447              | 7.99$ |
