@@ -20,7 +20,7 @@ Android【apk】Windows【exe/zip】Linux【rpm/deb】Mac【dmg/pkg】IOS【ipa�
 |    FlyClash    | https://github.com/GtxFury/FlyClash/releases                |     exe/dmg     |
 |   KoalaClash   | https://github.com/coolcoala/koala-clash/releases           |   exe/dmg/rpm   |
 |    Sparkle     | https://github.com/xishang0128/sparkle                      |   exe/dmg/rpm   |
-|                |                                                             |                 |
+|   ClashPlus    | https://clashplus.io/                                       |  apk/exe/ipa/dmg/hap |
 
 ### 经典派
 
